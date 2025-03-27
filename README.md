@@ -29,7 +29,7 @@ pip install pandas jupyter
 ## 🏁 Getting Started
 1. Open the notebook in Jupyter:
    ```bash
-   jupyter notebook cleaned_sample.ipynb
+   jupyter notebook sample.ipynb
    ```
 2. Run each cell sequentially to process the dataset.
 3. The final cleaned dataset will be ready for further analysis or machine learning applications.
