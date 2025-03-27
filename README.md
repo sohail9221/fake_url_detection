@@ -42,12 +42,4 @@ The processed dataset will have the following structure:
 | phishing-site.com | phishing |
 | malware-link.net | malware |
 
-## 📜 License
-This project is open-source and available for educational and research purposes.
-
-## 🤝 Contributions
-Feel free to contribute by improving data cleaning techniques, adding new datasets, or optimizing the workflow!
-
----
-✨ **Happy Coding!** ✨
 
