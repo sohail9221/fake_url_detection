@@ -1,1 +1,3 @@
-# fake_url_detection
+Malicious URL Detection using ML & LLM-based Models
+
+This project evaluates multiple models for classifying URLs as malicious or benign, including Random Forest, SVM, XGBoost, LSTM, CNN, and fine-tuned BERT. The study focuses on accuracy, precision, recall, and interpretability, highlighting BERT’s superior performance (94.5% accuracy). Key challenges include class imbalance, computational cost, and feature extraction complexity. Future improvements involve hybrid models, data augmentation, and real-time deployment.
